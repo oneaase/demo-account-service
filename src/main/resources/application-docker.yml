@@ -4,7 +4,7 @@ server:
     context-path: /
 spring:
   datasource:
-    url: jdbc:mysql://mysql:3306/demo-apps
+    url: jdbc:mysql://mysql:3306/canvas
     username: root
     password: passw0rd
     driverClassName: com.mysql.jdbc.Driver
